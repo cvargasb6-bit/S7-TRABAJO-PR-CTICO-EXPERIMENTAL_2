@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "fecha_creacion": "2026-10-03 21:30:28",
+        "cedula": "0934567819",
+        "nombres": "Daniel Alexander",
+        "apellidos": "Vera Paredes",
+        "correo": "dvera@unemi.edu.ec",
+        "tipo": "docente",
+        "titulo": "Ingeniero",
+        "especialidad": "Estructura de Datos",
+        "anios_experiencia": 8
+    }
+]

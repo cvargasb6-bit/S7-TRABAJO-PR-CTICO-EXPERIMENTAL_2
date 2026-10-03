@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "fecha_creacion": "2026-10-03 21:30:28",
+        "codigo": "ED-A1",
+        "asignatura_id": 1,
+        "docente_id": 1,
+        "periodo": "Agosto 2026 - Diciembre 2026",
+        "cupo_maximo": 2,
+        "estudiantes_ids": [
+            1,
+            2
+        ]
+    }
+]

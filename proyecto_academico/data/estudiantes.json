@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "fecha_creacion": "2026-10-03 21:30:28",
+        "cedula": "0923456784",
+        "nombres": "Ana María",
+        "apellidos": "Pérez Loor",
+        "correo": "ana.perez@unemi.edu.ec",
+        "tipo": "estudiante",
+        "matricula": "M-001",
+        "carrera": "Software",
+        "semestre": 3,
+        "notas": [
+            9.0,
+            8.5,
+            7.0
+        ]
+    },
+    {
+        "id": 2,
+        "fecha_creacion": "2026-10-03 21:30:28",
+        "cedula": "0912345675",
+        "nombres": "Luis Andrés",
+        "apellidos": "Mora Vera",
+        "correo": "luis.mora@unemi.edu.ec",
+        "tipo": "estudiante",
+        "matricula": "M-002",
+        "carrera": "Software",
+        "semestre": 3,
+        "notas": [
+            5.0
+        ]
+    }
+]

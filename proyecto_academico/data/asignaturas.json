@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "fecha_creacion": "2026-10-03 21:30:28",
+        "codigo": "EST-201",
+        "nombre": "Estructura de Datos",
+        "creditos": 4,
+        "horas_semanales": 5
+    }
+]
